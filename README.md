@@ -1,1 +1,1 @@
-# Graphic---lab2
+Для работы требуется установить Pillow: pip install Pillow
